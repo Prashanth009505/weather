@@ -1,0 +1,6 @@
+{
+  "name": "WeatherWise",
+  "description": "Smart weather application with real-time forecasts, saved cities, and customizable units.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
